@@ -17,3 +17,7 @@ Also for the accuracy we combined the word embeddings features with some lexicas
 </p>
 <br>
 [ For the training of word embeddings we used gensim model as a neural network. ]
+
+### Collaborators
+* [Aslanidis Theofanis](https://github.com/Fanarosss)
+* [Athinaios Konstantinos](https://github.com/kostasA97)
